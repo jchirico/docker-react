@@ -1,0 +1,4 @@
+git add .
+git commit -m "added readme"
+git push orig master
+git push origin master
